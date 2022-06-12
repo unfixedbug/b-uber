@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "b-uber"
+    "name": "uber2"
   },
   "api": {
-    "projectId": "zk2dhpfg",
+    "projectId": "gygljzbl",
     "dataset": "production"
   },
   "plugins": [
